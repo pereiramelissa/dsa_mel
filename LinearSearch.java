@@ -34,3 +34,4 @@ class LinearSearch{
            return -1;   
         }
     }
+//output: 3
